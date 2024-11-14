@@ -18,7 +18,8 @@
   "dev": "vite", 
   "build": "vite build",
   "preview": "vite preview", 
-  "test": "vite test"
+  "test": "vite test",
+  "start": "npx http-server ./dist"
 },
   "eslintConfig": {
     "extends": [
